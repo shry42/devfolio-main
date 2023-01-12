@@ -40,6 +40,7 @@ class PortfolioMobileTab extends StatelessWidget {
             autoPlayCurve: Curves.fastOutSlowIn,
             autoPlayAnimationDuration: const Duration(milliseconds: 800),
             enableInfiniteScroll: false,
+            
           ),
         ),
         Space.y!,
